@@ -2,6 +2,9 @@
 
 My name is Daniel Moreno, I am originally from San Diego, California. I am an Electrical Engingeering Major at CSUF. I loved my time taking introduction to Computer Science and the skills I learned will stick with me for a long time. 
 
+## Computer Science Projects
+  My GitHub webpage is https://github.com/danmoreno05
+
 ## Favorite CPSC 120L Labs
 *Lab 1
   I think that lab one was one of the most pivotal labs for my development of an understanding of computer science. Lab one, while rather simple, challenged my mind with new ideas that I was unfamiliar with. Lab one also helped as I met my lab partner who helped me in my C++ journey. 
